@@ -43,4 +43,4 @@ To qualify for the Prizes, the RMSE of your submitted predictions on the private
 # Public and Private Split
 Test data is further randomly divided into Public (30%) and Private (70%) data. * Your initial responses will be checked and scored on the Public data. * The final rankings would be based on your private score which will be published once the competition is over.
 
-# <a href="https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/pvt_lb">Private LB </a> Score of 97.2439527785 78th/983
+# <a href="https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/pvt_lb">Private LB </a> Score of 97.2439527785 78th/983 || Public LB sscore 96.2403981833 84th/983
