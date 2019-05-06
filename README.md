@@ -44,3 +44,11 @@ To qualify for the Prizes, the RMSE of your submitted predictions on the private
 Test data is further randomly divided into Public (30%) and Private (70%) data. * Your initial responses will be checked and scored on the Public data. * The final rankings would be based on your private score which will be published once the competition is over.
 
 # <a href="https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/pvt_lb">Private LB </a> Score of 97.2439527785 78th/983 || Public LB sscore 96.2403981833 84th/983
+
+# Thing Should have tried
+
+<ul>
+  <li>I havent updated the hyper parameter of LGB , XGB and CatBooster as seen in other solution </li>
+  <li>I have seen one solution where they have used more tree depth (Which i tried but i tought its overfitting), i will update the solution with hyper parameters </li>
+  <li>More Investigation into the Data </li>
+  </ul>
